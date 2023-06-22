@@ -1,5 +1,7 @@
 # 5ire-Pay
+DECENTRALISED END TO END PAYMENT PLATFORM
 https://6493439918764f024272f980--marvelous-tanuki-d26b30.netlify.app/
+LINK OF THE HOSTED WEBSITE 
 
 Performs seemless transactions on Blockchain
 Financial Inclusion,Fast and Efficient Transactions
